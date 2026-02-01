@@ -56,4 +56,4 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
- ![Açıklama metni](assets/diagram.png)
+ ![Açıklama metni](https://github.com/zohrab446/zohrab-s-tech-journal/blob/bf34821bf40ccff007774e9d1b8b1ec93f9ef056/Ekran%20Resmi%202026-02-01%2003.38.13.png)
